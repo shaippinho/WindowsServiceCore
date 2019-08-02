@@ -1,0 +1,11 @@
+C:\Work\Estudos\WindowsServiceDotNetCore\ServicoWindows\bin\Release\netcoreapp2.2\ServicoWindows.deps.json
+C:\Work\Estudos\WindowsServiceDotNetCore\ServicoWindows\bin\Release\netcoreapp2.2\ServicoWindows.runtimeconfig.json
+C:\Work\Estudos\WindowsServiceDotNetCore\ServicoWindows\bin\Release\netcoreapp2.2\ServicoWindows.runtimeconfig.dev.json
+C:\Work\Estudos\WindowsServiceDotNetCore\ServicoWindows\bin\Release\netcoreapp2.2\ServicoWindows.dll
+C:\Work\Estudos\WindowsServiceDotNetCore\ServicoWindows\bin\Release\netcoreapp2.2\ServicoWindows.pdb
+C:\Work\Estudos\WindowsServiceDotNetCore\ServicoWindows\obj\Release\netcoreapp2.2\ServicoWindows.csprojAssemblyReference.cache
+C:\Work\Estudos\WindowsServiceDotNetCore\ServicoWindows\obj\Release\netcoreapp2.2\ServicoWindows.csproj.CoreCompileInputs.cache
+C:\Work\Estudos\WindowsServiceDotNetCore\ServicoWindows\obj\Release\netcoreapp2.2\ServicoWindows.AssemblyInfoInputs.cache
+C:\Work\Estudos\WindowsServiceDotNetCore\ServicoWindows\obj\Release\netcoreapp2.2\ServicoWindows.AssemblyInfo.cs
+C:\Work\Estudos\WindowsServiceDotNetCore\ServicoWindows\obj\Release\netcoreapp2.2\ServicoWindows.dll
+C:\Work\Estudos\WindowsServiceDotNetCore\ServicoWindows\obj\Release\netcoreapp2.2\ServicoWindows.pdb

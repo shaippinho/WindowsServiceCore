@@ -1,0 +1,14 @@
+C:\Work\Estudos\WindowsServiceDotNetCore\ServicoWindows\bin\Release\netcoreapp2.2\win10-x64\hostpolicy.dll
+C:\Work\Estudos\WindowsServiceDotNetCore\ServicoWindows\bin\Release\netcoreapp2.2\win10-x64\hostfxr.dll
+C:\Work\Estudos\WindowsServiceDotNetCore\ServicoWindows\bin\Release\netcoreapp2.2\win10-x64\ServicoWindows.exe
+C:\Work\Estudos\WindowsServiceDotNetCore\ServicoWindows\bin\Release\netcoreapp2.2\win10-x64\ServicoWindows.deps.json
+C:\Work\Estudos\WindowsServiceDotNetCore\ServicoWindows\bin\Release\netcoreapp2.2\win10-x64\ServicoWindows.runtimeconfig.json
+C:\Work\Estudos\WindowsServiceDotNetCore\ServicoWindows\bin\Release\netcoreapp2.2\win10-x64\ServicoWindows.runtimeconfig.dev.json
+C:\Work\Estudos\WindowsServiceDotNetCore\ServicoWindows\bin\Release\netcoreapp2.2\win10-x64\ServicoWindows.dll
+C:\Work\Estudos\WindowsServiceDotNetCore\ServicoWindows\bin\Release\netcoreapp2.2\win10-x64\ServicoWindows.pdb
+C:\Work\Estudos\WindowsServiceDotNetCore\ServicoWindows\obj\Release\netcoreapp2.2\win10-x64\ServicoWindows.csprojAssemblyReference.cache
+C:\Work\Estudos\WindowsServiceDotNetCore\ServicoWindows\obj\Release\netcoreapp2.2\win10-x64\ServicoWindows.csproj.CoreCompileInputs.cache
+C:\Work\Estudos\WindowsServiceDotNetCore\ServicoWindows\obj\Release\netcoreapp2.2\win10-x64\ServicoWindows.AssemblyInfoInputs.cache
+C:\Work\Estudos\WindowsServiceDotNetCore\ServicoWindows\obj\Release\netcoreapp2.2\win10-x64\ServicoWindows.AssemblyInfo.cs
+C:\Work\Estudos\WindowsServiceDotNetCore\ServicoWindows\obj\Release\netcoreapp2.2\win10-x64\ServicoWindows.dll
+C:\Work\Estudos\WindowsServiceDotNetCore\ServicoWindows\obj\Release\netcoreapp2.2\win10-x64\ServicoWindows.pdb
